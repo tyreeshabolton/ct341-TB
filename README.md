@@ -1,2 +1,4 @@
 # ct341-TB
-FIT coding class
+FIT coding class.
+## Project 1 
+Static page with paralax scrolling.
